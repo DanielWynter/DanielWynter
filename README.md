@@ -1,11 +1,101 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Daniel Wynter ======================================================================================================================================  Computer Science Student | Software Development -----------------------------------------------  I am a Computer Science student with a strong interest in building software that solves real-world problems through algorithms, data structures, and well-designed systems.  My technical experience includes C++, Java, Python, and JavaScript, along with modern tools and frameworks such as React, React Native, Firebase, and Expo.  * 🌍  I'm based in Gudalajara, Jalisco * ✉️  You can contact me at [wydne33@gmail.com](mailto:wydne33@gmail.com) * 🧠  I'm currently learning Data Structures & Algorithms on Java
+## Hi 👋 I'm Daniel Wynter  
+**Computer Science Student | Software Development**
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/DanielWynter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/widen_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/danwynter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+I’m a Computer Science student with a strong interest in building software that solves real-world problems through **algorithms, data structures, and well-designed systems**.
 
-<b>My GitHub Stats</b>
+I enjoy working across the stack and learning how different technologies connect to build reliable and scalable applications.
 
-<a href="http://www.github.com/DanielWynter"><img src="https://github-readme-stats.vercel.app/api?username=DanielWynter&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DanielWynter's GitHub stats" /></a>
-<a href="http://www.github.com/DanielWynter"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWynter&stroke=0f172a&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=0f172a&currStreakLabel=84cc16&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-<a href="https://github.com/DanielWynter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWynter&langs_count=10&title_color=84cc16&text_color=0f172a&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🚀 About Me
+- 🌍 Based in **Guadalajara, Jalisco**
+- 🎓 Computer Science student
+- 🧠 Currently learning **Data Structures & Algorithms in Java**
+- ✉️ Contact: **[wydne33@gmail.com](mailto:wydne33@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- C++
+- Java
+- Python
+- JavaScript
+
+**Frameworks & Tools**
+- React
+- React Native
+- Node.js
+- Express
+- Firebase
+- Expo
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Other**
+- Git
+- VS Code
+
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" />
+  </a>
+</p>
+
+---
+
+### 🌐 Socials
+<p align="left">
+  <a href="https://github.com/DanielWynter">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  </a>
+  <a href="https://www.x.com/widen_">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/danwynter">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielWynter&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWynter&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWynter&langs_count=8&hide_border=true&layout=compact" />
+</p>
