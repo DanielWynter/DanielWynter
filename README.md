@@ -49,6 +49,9 @@ I enjoy working across the stack and learning how different technologies connect
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" />
   </a>
+<a href="https://www.oracle.com/java/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" />
+</a>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" />
   </a>
@@ -57,9 +60,6 @@ I enjoy working across the stack and learning how different technologies connect
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" />
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" />
